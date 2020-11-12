@@ -18,7 +18,7 @@ Visual Studio 2017 (15.2) was [released on May 2017](https://docs.microsoft.com/
 side-by-side different versions of the MSVC toolset, it allows you to [build binaries
 that are fully compatible with the ones built using older versions](https://devblogs.microsoft.com/cppblog/stuck-on-an-older-toolset-version-move-to-visual-studio-2015-without-upgrading-your-toolset/).
 
-Visual Studio 2017 (15.2) includes [`wswhere` application](https://github.com/microsoft/vswhere). 
+Visual Studio 2017 (15.2) includes [`vswhere` application](https://github.com/microsoft/vswhere). 
 This tool is needed Conan to locate Visual Studio installation and toolsets available (link to proposal required).
 
 
